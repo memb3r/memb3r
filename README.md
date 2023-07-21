@@ -36,11 +36,6 @@
   
 - Helvetia
   
-
-### 🏢 My work:
-
-Now I'm working in a small team of talented developers and designers named Vidomnia (https://t.me/vidomnia) as designer.
-  
 ### 👨‍🏫 Channels and projects:
 
 I was an owner of a studio named Pat-Studio https://t.me/patstudios, but I handed over it to another studio - Sparkware. Now it's named IzzyLabs.
@@ -54,5 +49,17 @@ My new projects and channels are:
 - https://t.me/memberbio - My BIO in Telegram.
   
 - https://t.me/biotemplates - Channel with BIO templates.
+
+- https://t.me/formulateplease - For peaplem who can't speak well.
+
+- https://t.me/dotkape - My musical project.
+
+- https://t.me/elitrolab - My distro channel.
+
+- https://t.me/desmoralfiles - Desmoral Kontora files.
+
+- https://t.me/desmignity - Preview of my projects, websites and concepts.
+
+That's all!
   
 <h1 align="center">🙏 Thx for watching</h1>
