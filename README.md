@@ -13,6 +13,10 @@
 - Patrion (prev.) 
   
 - Desmoral
+
+- kmgy
+
+- Innersloth6668
   
   
 ### 🏓 Hobbies and interests:
@@ -38,7 +42,7 @@
   
 ### 👨‍🏫 Channels and projects:
 
-I was an owner of a studio named Pat-Studio https://t.me/patstudios, but I handed over it to another studio - Sparkware. Now it's named IzzyLabs.
+I was an owner of a studio named Pat-Studio https://t.me/patstudios, but I handed over it to another studio - Sparkware. Now it's named Luminex.
   
 My new projects and channels are:
   
