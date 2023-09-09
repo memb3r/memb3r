@@ -46,13 +46,9 @@ I was an owner of a studio named Pat-Studio https://t.me/patstudios, but I hande
   
 My new projects and channels are:
   
-- https://t.me/buterbrodiki_gif - Funny GIFs of Komaru and family.
-  
 - https://t.me/desmoral_kontora - My new channel with my blog and concepts.
   
 - https://t.me/memberbio - My BIO in Telegram.
-  
-- https://t.me/biotemplates - Channel with BIO templates.
 
 - https://t.me/formulateplease - For peaplem who can't speak well.
 
