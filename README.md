@@ -1,63 +1,40 @@
-<h1 align="center">😁 Hi there, I'm <a href="https://t.me/desmoral_kontora" target="_blank">Member</a> </h1>
-<h3 align="center">🎨 UI/UX and logo designer</h3>
+<h1>Welcome to Member's Profile</h1>
 
-### 📄 Full Biography (on russian language):
-<p align="left">
-<a href="https://t.me/memberbio" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<h2>Nicknames:</h2>
+<ul>
+    <li>Member</li>
+    <li>Patrion</li>
+    <li>Desmoral</li>
+    <li>Innersloth6668</li>
+    <li>kmgy</li>
+</ul>
 
-  
-### 📜 Nicknames:
+<h2>Skills and Interests:</h2>
+<ul>
+    <li>UI/UX Design</li>
+    <li>Logo Design</li>
+    <li>Music Composition</li>
+    <li>Poetry Writing</li>
+</ul>
 
-- Member
-  
-- Patrion (prev.) 
-  
-- Desmoral
+<h2>Music Preferences:</h2>
+<ul>
+    <li>Duster</li>
+    <li>Alex G</li>
+    <li>Have A Nice Life</li>
+    <li>Helvetia</li>
+</ul>
 
-- kmgy
+<h2>Telegram Channels:</h2>
+<ul>
+    <li><a href="https://t.me/desmoral_kontora">Desmoral-Kontora</a></li>
+    <li><a href="https://t.me/memberbio">Member's Bio</a></li>
+    <li><a href="https://t.me/formulateplease">Formulate, Please</a></li>
+    <li><a href="https://t.me/dotkape">Dotkape</a></li>
+    <li><a href="https://t.me/elitrolab">ElitroLab</a></li>
+    <li><a href="https://t.me/desmoralfiles">Desmoral-Files</a></li>
+</ul>
 
-- Innersloth6668
-  
-  
-### 🏓 Hobbies and interests:
-
-- 🖼️ Logo design
-  
-- 🎨 UI/UX design
-  
-- 🎵 Music
-  
-- 📑 Writing lyrics
-  
-  
-### 🎹 Music interests:
-
-- Duster
-  
-- Alex G
-  
-- Aphex Twin
-  
-- Helvetia
-  
-### 👨‍🏫 Channels and projects:
-
-I was an owner of a studio named Pat-Studio https://t.me/patstudios, but I handed over it to another studio - Sparkware. Now it's named Luminex.
-  
-My new projects and channels are:
-  
-- https://t.me/desmoral_kontora - My new channel with my blog and concepts.
-  
-- https://t.me/memberbio - My BIO in Telegram.
-
-- https://t.me/formulateplease - For peaplem who can't speak well.
-
-- https://t.me/dotkape - My musical project.
-
-- https://t.me/elitrolab - My distro channel.
-
-- https://t.me/desmoralfiles - Desmoral Kontora files.
-
-That's all!
-  
-<h1 align="center">🙏 Thx for watching</h1>
+<p>
+    Feel free to reach out to Member on any of the Telegram channels mentioned above for further inquiries or to connect!
+</p>
