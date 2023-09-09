@@ -58,8 +58,6 @@ My new projects and channels are:
 
 - https://t.me/desmoralfiles - Desmoral Kontora files.
 
-- https://t.me/desmignity - Preview of my projects, websites and concepts.
-
 That's all!
   
 <h1 align="center">🙏 Thx for watching</h1>
