@@ -9,12 +9,11 @@
     <li>kmgy</li>
 </ul>
 
-<h2>💼 Skills and Interests:</h2>
+<h2>💼 Skills:</h2>
 <ul>
-    <li>UI/UX Design</li>
-    <li>Logo Design</li>
-    <li>Music Composition</li>
-    <li>Poetry Writing</li>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </ul>
 
 <h2>🎶 Music Preferences:</h2>
@@ -38,6 +37,10 @@
 <p>
     Feel free to reach out to Member on any of the Telegram channels mentioned above for further inquiries or to connect! 📩
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=memb3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+
+[![](https://visitcount.itsvg.in/api?id=memb3r&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </body>
 </html>
