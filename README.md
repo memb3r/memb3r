@@ -1,4 +1,4 @@
-<h1>Welcome to Member's Profile 👋</h1>
+<img src="mmbrlogo.png">
 
 <h2>📝 Nicknames:</h2>
 <ul>
