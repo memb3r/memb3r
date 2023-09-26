@@ -39,7 +39,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=memb3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
-[![](https://visitcount.itsvg.in/api?id=memb3r&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=memb3r&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
 
 </body>
 </html>
