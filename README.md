@@ -1,4 +1,6 @@
-<img src="membrlogo.png">
+<p align="center">
+    <img src="membrlogo.png">
+</p>
 
 <h2>📝 Nicknames:</h2>
 <ul>
