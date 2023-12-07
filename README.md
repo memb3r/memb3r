@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="membrlogo.png">
+    <img src="memb3rlogo.png">
 </p>
 
 <h2>📝 Nicknames:</h2>
