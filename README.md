@@ -1,5 +1,4 @@
-<img src="mmbrlogo.png">
-<p align='center'><a href='https://memb3r.github.io'>My Website</a></p>
+<img src="membrlogo.png">
 
 <h2>📝 Nicknames:</h2>
 <ul>
