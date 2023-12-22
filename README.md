@@ -2,7 +2,7 @@
     <img src="memb3rlogotype.png">
 </p>
 
-<h2>📝 Nicknames:</h2>
+<h2>✎ Nicknames:</h2>
 <ul>
     <li>Member</li>
     <li>Patrion</li>
@@ -10,12 +10,12 @@
     <li>kmgy</li>
 </ul>
 
-<h2>💼 Skills:</h2>
+<h2>★ Skills:</h2>
 
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<h2>🎶 Music Preferences:</h2>
+<h2>♫ Music Preferences:</h2>
 <ul>
     <li>Duster</li>
     <li>Alex G</li>
@@ -23,7 +23,7 @@
     <li>Helvetia</li>
 </ul>
 
-<h2>📢 Telegram Channels:</h2>
+<h2>☏ Telegram Channels:</h2>
 <ul>
     <li><a href="https://t.me/desmoral_kontora">Desmoral-Kontora</a></li>
     <li><a href="https://t.me/memberbio">Member's Bio</a></li>
